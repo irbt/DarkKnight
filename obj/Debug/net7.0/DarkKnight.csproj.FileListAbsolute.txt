@@ -1,0 +1,15 @@
+C:\Mon_Code\DarkKnight\bin\Debug\net7.0\DarkKnight.exe
+C:\Mon_Code\DarkKnight\bin\Debug\net7.0\DarkKnight.deps.json
+C:\Mon_Code\DarkKnight\bin\Debug\net7.0\DarkKnight.runtimeconfig.json
+C:\Mon_Code\DarkKnight\bin\Debug\net7.0\DarkKnight.dll
+C:\Mon_Code\DarkKnight\bin\Debug\net7.0\DarkKnight.pdb
+C:\Mon_Code\DarkKnight\obj\Debug\net7.0\DarkKnight.csproj.AssemblyReference.cache
+C:\Mon_Code\DarkKnight\obj\Debug\net7.0\DarkKnight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mon_Code\DarkKnight\obj\Debug\net7.0\DarkKnight.AssemblyInfoInputs.cache
+C:\Mon_Code\DarkKnight\obj\Debug\net7.0\DarkKnight.AssemblyInfo.cs
+C:\Mon_Code\DarkKnight\obj\Debug\net7.0\DarkKnight.csproj.CoreCompileInputs.cache
+C:\Mon_Code\DarkKnight\obj\Debug\net7.0\DarkKnight.dll
+C:\Mon_Code\DarkKnight\obj\Debug\net7.0\refint\DarkKnight.dll
+C:\Mon_Code\DarkKnight\obj\Debug\net7.0\DarkKnight.pdb
+C:\Mon_Code\DarkKnight\obj\Debug\net7.0\DarkKnight.genruntimeconfig.cache
+C:\Mon_Code\DarkKnight\obj\Debug\net7.0\ref\DarkKnight.dll
